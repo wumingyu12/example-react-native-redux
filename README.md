@@ -16,6 +16,7 @@ This repo demonstrates the usage of latest React-Native with Redux.
 -在andriod 的文件夹下你需要添加一个local.properties 再在里面添加你的andriod Sdk地址
 
 ###运行
+
 -1.项目目录下 npm install
 -2.运行react-native run-android
 -3.运行react-native start
