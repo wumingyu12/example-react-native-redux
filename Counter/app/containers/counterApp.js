@@ -19,6 +19,7 @@ class CounterApp extends Component {
     return (
       <Counter
         counter={state.count}
+        //如果actions对象有key1=1，key2=2，那么下面的操作与给<Counter key1=1 key2=2>等价
         {...actions} />
     );
   }
