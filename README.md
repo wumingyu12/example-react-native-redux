@@ -18,7 +18,9 @@ This repo demonstrates the usage of latest React-Native with Redux.
 ###运行
 
 -1.项目目录下 npm install
+
 -2.运行react-native run-android
+
 -3.运行react-native start
 
 Cheers,
